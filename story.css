@@ -1,0 +1,68 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    border: 0;
+    padding: 0;
+}
+body {
+    background-color: rgb(185, 216, 216);
+}
+#welcome {
+    text-align: center;
+    font-size: 68px;
+    font-weight: 100;
+    color: #beafb4;
+}
+#turan1 {
+    float: left;
+}
+#turan2 {
+    float: right;
+}
+
+#head {
+    height: 45px;
+    background-color: #ffffff;
+    overflow: auto;
+}
+
+#name {
+    margin-top: 0px;
+}
+
+#head a{
+    font-size: 20px;
+    color: rgb(73, 73, 73);
+    text-decoration: none;
+    
+}
+
+#story {
+    background-color: rgb(185, 216, 216);
+}
+
+#art {
+    background-color: rgb(250, 240, 225);
+}
+
+#game {
+    background-color: rgb(236, 205, 218);
+}
+
+#content {
+    margin: 20px;
+}
+
+#content h4{
+    font-size: 25px;
+}
+
+#content p{
+    margin: 10px;
+    font-size: 20px;
+}
+
+#content div{
+    font-size: 12px;
+    text-align: right;
+}
