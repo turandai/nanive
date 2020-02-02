@@ -5,7 +5,7 @@
 }
 body {
     background-color: rgb(255, 255, 255);
-    width: 800px;
+    width: 1000px;
     margin-left: auto;
     margin-right: auto;
     text-align: center;
@@ -14,11 +14,11 @@ body {
 
 
 a{
-    font-size: 40px;
+    font-size: 30px;
 }
 
 h2{
-    font-size:60px;
+    font-size:50px;
 }
 
 #timeline a{
