@@ -3,23 +3,31 @@
     margin: 0;
     border: 0;
     padding: 0;
-    text-align: center;
+    
 }
 body {
     background-color: rgb(255, 255, 255);
-    width: 500px;
+    width: 800px;
     margin-left: auto;
     margin-right: auto;
+    text-align: center;
 }
 
 
+
+a{
+    font-size: 40px;
+}
+
+h2{
+    font-size:60px;
+}
 
 #timeline a{
     text-decoration: none;
 }
 
 #head {
-    height: 45px;
     background-color: #ffffff;
     overflow: auto;
 }
