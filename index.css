@@ -3,21 +3,16 @@
     margin: 0;
     border: 0;
     padding: 0;
+    text-align: center;
 }
 body {
-    background-color: rgb(230, 230, 230);
+    background-color: rgb(255, 255, 255);
 }
-#welcome {
-    text-align: center;
-    font-size: 68px;
-    font-weight: 100;
-    color: #beafb4;
-}
-#turan1 {
-    float: left;
-}
-#turan2 {
-    float: right;
+
+
+
+#timeline a{
+    text-decoration: none;
 }
 
 #head {
@@ -28,47 +23,25 @@ body {
 
 #name {
     margin-top: 0px;
+    text-align: left;
 }
 
-#head a{
-    font-size: 20px;
-    color: rgb(73, 73, 73);
-    text-decoration: none;
-    
-}
+
 
 #story {
-    background-color: rgb(200, 236, 236);
+    background-color: rgba(220, 220, 220);
+    margin: 10px;
 }
 
 #art {
-    background-color: rgb(250, 240, 225);
+    background-color: rgba(220, 220, 220);
+    margin: 10px;
 }
 
 #game {
-    background-color: rgb(236, 205, 218);
-}
-
-#content {
-    text-align: center;
-    margin: 20px;
-}
-
-#content h4{
-    font-size: 25px;
-}
-
-#content p{
+    background-color: rgb(220, 220, 220);
     margin: 10px;
-    font-size: 20px;
 }
 
-#content a {
-    text-decoration: none;
-    
-}
 
-#content div{
-    font-size: 12px;
-    text-align: right;
-}
+
