@@ -3,8 +3,8 @@ $.fn.hasAttr = function(name) { var attr = $(this).attr(name); return typeof att
 
 
 $(document).ready(function() {
-r=function(){dpi=window.devicePixelRatio;$('.js-39').attr('src', (dpi>1) ? 'images/picture3-62.png' : 'images/picture3-31.png');
-$('.js-40').attr('src', (dpi>1) ? 'images/picture2-80.png' : 'images/picture2-40.png');};
+r=function(){dpi=window.devicePixelRatio;$('.js-32').attr('src', (dpi>1) ? 'images/picture3-62.png' : 'images/picture3-31.png');
+$('.js-33').attr('src', (dpi>1) ? 'images/picture2-80.png' : 'images/picture2-40.png');};
 if(!window.HTMLPictureElement){r();}
 (function(){$('a[href^="#"]:not(.allowConsent,.noConsent,.denyConsent,.removeConsent)').each(function(){$(this).click(function(){var t=this.hash.length>1?$('[name="'+this.hash.slice(1)+'"]').offset().top:0;return $("html, body").animate({scrollTop:t},400),!1})})})();
 
