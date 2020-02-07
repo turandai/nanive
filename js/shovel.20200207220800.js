@@ -3,9 +3,9 @@ $.fn.hasAttr = function(name) { var attr = $(this).attr(name); return typeof att
 
 
 $(document).ready(function() {
-r=function(){dpi=window.devicePixelRatio;$('.js-49').attr('src', (dpi>1) ? 'images/picture3-62.png' : 'images/picture3-31.png');
-$('.js-50').attr('src', (dpi>1) ? 'images/drone-1560.jpg' : 'images/drone-780.jpg');
-$('.js-51').attr('src', (dpi>1) ? 'images/picture2-80.png' : 'images/picture2-40.png');};
+r=function(){dpi=window.devicePixelRatio;$('.js-44').attr('src', (dpi>1) ? 'images/picture3-62.png' : 'images/picture3-31.png');
+$('.js-45').attr('src', (dpi>1) ? 'images/shovel-1580.jpg' : 'images/shovel-790.jpg');
+$('.js-46').attr('src', (dpi>1) ? 'images/picture2-80.png' : 'images/picture2-40.png');};
 if(!window.HTMLPictureElement){r();}
 (function(){$('a[href^="#"]:not(.allowConsent,.noConsent,.denyConsent,.removeConsent)').each(function(){$(this).click(function(){var t=this.hash.length>1?$('[name="'+this.hash.slice(1)+'"]').offset().top:0;return $("html, body").animate({scrollTop:t},400),!1})})})();
 

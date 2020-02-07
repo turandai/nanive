@@ -6,11 +6,11 @@ function em1(){var c="obojwf`tuvejpApvumppl/dpn";var addr="mailto:";for(var i=0;
 $(document).ready(function() {
 r=function(){dpi=window.devicePixelRatio;$('.js').attr('src', (dpi>1) ? 'images/nanive_en-1036-1.png' : 'images/nanive_en-518-1.png');
 
-$('.js-8').attr('src', (dpi>1) ? 'images/picture4-36.png' : 'images/picture4-18.png');
-$('.js-10').attr('src', (dpi>1) ? 'images/picture4-36.png' : 'images/picture4-18.png');
-$('.js-12').attr('src', (dpi>1) ? 'images/picture4-36.png' : 'images/picture4-18.png');
+$('.js-13').attr('src', (dpi>1) ? 'images/picture4-36.png' : 'images/picture4-18.png');
 $('.js-14').attr('src', (dpi>1) ? 'images/picture4-36.png' : 'images/picture4-18.png');
+$('.js-15').attr('src', (dpi>1) ? 'images/picture4-36.png' : 'images/picture4-18.png');
 $('.js-16').attr('src', (dpi>1) ? 'images/picture4-36.png' : 'images/picture4-18.png');
+$('.js-17').attr('src', (dpi>1) ? 'images/picture4-36.png' : 'images/picture4-18.png');
 $('.js-18').attr('src', (dpi>1) ? 'images/picture4-36.png' : 'images/picture4-18.png');
 
 $('.js-22').attr('src', (dpi>1) ? 'images/picture4-36.png' : 'images/picture4-18.png');
